@@ -1,2 +1,3 @@
-# mini-fitness-tracker-mu25
+# Mini Fitness Tracker Mu25
+
 A repository to test GitHub automation for issue management.
